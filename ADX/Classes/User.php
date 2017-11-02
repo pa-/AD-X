@@ -21,7 +21,7 @@ use ADX\Core\Object;
 use ADX\Util\Exchange\AddressListSelector;
 use ADX\Util\Exchange\MailboxStoreSelector;
 use ADX\Util\Exchange\TransferAgentSelector;
-use Rhumsaa\Uuid\Uuid;
+use Ramsey\Uuid\Uuid;
 
 /**
  * Class representing a 'user' objectClass in Active Directory
