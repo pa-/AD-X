@@ -16,7 +16,7 @@
 		"php": ">=5.4.0",
 		"ext-ldap": "*",
 		"ext-json": "*",
-		"rhumsaa/uuid": "~2.4"
+		"ramsey/uuid": "^3.7.0"
 	},
 	"require-dev": {
 		"apigen/apigen": "~2.8.0"
